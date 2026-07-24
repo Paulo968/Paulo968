@@ -36,7 +36,7 @@ Hoje uno experiência operacional e desenvolvimento para criar soluções que fu
 | [**Damas IA Grão-Mestre**](https://github.com/Paulo968/damas-ia-graomestre) | Algoritmos de busca, processamento paralelo e memória compartilhada | JavaScript, Web Workers, Supabase, PWA |
 | [**Conciliador de Estoque PRO**](https://github.com/Paulo968/conciliador-estoque) | Auditoria logística, cruzamento de bases e exportação de resultados | JavaScript, SheetJS, Tailwind CSS |
 | [**Guia Web Definitivo**](https://github.com/Paulo968/guia-web) | Organização didática de conceitos e experiência frontend | HTML, JavaScript, Tailwind CSS |
-| [**Jokenpo Pro**](https://github.com/Paulo968/JokenpoPro) | Lógica adaptativa, estatísticas, persistência e PWA | JavaScript, Chart.js, Service Worker |
+| [**Jokenpo Pro**](https://github.com/Paulo968/JokenpoPro) | Lógica adaptativa, estatísticas, persistência e PWA | JavaScript, Web Audio API, Service Worker, PWA |
 
 ## Sistemas comerciais
 
