@@ -36,7 +36,7 @@ Jogo de damas com inteligência artificial, minimax executado em Web Worker, mem
 
 Aplicação web para comparar bases de estoque, identificar faltas e sobras, gerar indicadores e exportar auditorias para Excel.
 
-### [Portfólio profissional](https://paulozaqueu.github.io/)
+### [Portfólio profissional](https://portfolio-paulo-ashy.vercel.app/)
 
 Minha trajetória, experiência operacional, resultados e projetos reunidos em uma apresentação profissional.
 
@@ -51,7 +51,7 @@ Também desenvolvo sistemas privados utilizados em operações reais, incluindo 
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/paulo-zaqueu-762459187)
-- [Portfólio](https://paulozaqueu.github.io/)
+- [Portfólio](https://portfolio-paulo-ashy.vercel.app/)
 - E-mail: paulozaqueu3@gmail.com
 
 ---
