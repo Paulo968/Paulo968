@@ -1,59 +1,72 @@
-# Olá, eu sou Paulo Zaqueu 👋
+<div align="center">
 
-**Desenvolvedor de sistemas e automações com experiência prática em logística, faturamento, estoque e operações.**
+# Paulo Zaqueu
 
-Minha trajetória começou no chão da operação. Depois de anos trabalhando com processos logísticos, SAP, inventários, faturamento e liderança de equipes, passei a transformar problemas repetitivos em software.
+### Desenvolvedor de Sistemas e Automações
 
-Hoje desenvolvo automações com Python, aplicações web e sistemas de gestão voltados para problemas reais de negócio.
+Transformo problemas operacionais reais em **automações, aplicações web e sistemas de gestão**.
 
-## O que eu faço
+[![Portfólio](https://img.shields.io/badge/Portfólio-Visitar-7C3AED?style=for-the-badge)](https://portfolio-paulo-ashy.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-zaqueu-762459187)
+[![E-mail](https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulozaqueu3@gmail.com)
 
-- Automatizo rotinas operacionais com **Python, Selenium e processamento de planilhas**;
-- desenvolvo aplicações web com **JavaScript, React e TypeScript**;
-- estruturo bancos de dados e regras de negócio com **PostgreSQL e Supabase**;
-- transformo processos manuais em fluxos rastreáveis, seguros e escaláveis;
-- aplico experiência em logística e gestão para construir sistemas que funcionam no uso real.
+</div>
 
-## Resultados profissionais
+## Sobre mim
 
-- **+400% de produtividade** em uma automação RPA aplicada ao processo de faturamento;
-- solução padronizada para **7 filiais**;
-- alcance de **99,8% de acuracidade de estoque** em atuação logística;
-- redução de aproximadamente **30% nas perdas operacionais** com organização de processos;
-- participação em projeto reconhecido com **1º lugar global em eficiência de custos**.
+Minha trajetória começou no chão da operação, trabalhando com logística, SAP, estoque, faturamento, inventários e liderança de equipes. Com o tempo, percebi que muitos gargalos não precisavam apenas de mais esforço: precisavam de **sistemas melhores**.
+
+Hoje uno experiência operacional e desenvolvimento para criar soluções que funcionam no uso real — da automação de tarefas repetitivas a sistemas completos de pedidos, caixa, estoque, pagamentos e controle de frota.
+
+## Resultados que representam meu trabalho
+
+| Resultado | Contexto |
+|---|---|
+| **+400% de produtividade** | Automação RPA aplicada ao processo de faturamento |
+| **7 filiais atendidas** | Padronização e implantação da solução automatizada |
+| **99,8% de acuracidade** | Gestão e controle de estoque em operação logística |
+| **-30% em perdas operacionais** | Organização de processos e melhoria contínua |
+| **1º lugar global em eficiência de custos** | Participação em projeto de melhoria operacional |
 
 ## Projetos em destaque
 
-### [CREA-BOT](https://github.com/Paulo968/crea-rpa-bot)
-
-Automação RPA em Python e Selenium criada para reduzir lançamentos manuais no portal do CREA-MG. Possui interface desktop, validação de planilhas, retomada inteligente, backups e logs de execução.
-
-### [Damas IA Grão-Mestre](https://github.com/Paulo968/damas-ia-graomestre)
-
-Jogo de damas com inteligência artificial, minimax executado em Web Worker, memória de padrões, aprendizado coletivo, Supabase e suporte a PWA.
-
-### [Conciliador de Estoque PRO](https://github.com/Paulo968/conciliador-estoque)
-
-Aplicação web para comparar bases de estoque, identificar faltas e sobras, gerar indicadores e exportar auditorias para Excel.
-
-### [Portfólio profissional](https://portfolio-paulo-ashy.vercel.app/)
-
-Minha trajetória, experiência operacional, resultados e projetos reunidos em uma apresentação profissional.
+| Projeto | O que demonstra | Tecnologias |
+|---|---|---|
+| [**CREA-BOT**](https://github.com/Paulo968/crea-rpa-bot) | Automação real, validação de planilhas, retomada segura e ganho operacional | Python, Selenium, Pandas, CustomTkinter |
+| [**Damas IA Grão-Mestre**](https://github.com/Paulo968/damas-ia-graomestre) | Algoritmos de busca, processamento paralelo e memória compartilhada | JavaScript, Web Workers, Supabase, PWA |
+| [**Conciliador de Estoque PRO**](https://github.com/Paulo968/conciliador-estoque) | Auditoria logística, cruzamento de bases e exportação de resultados | JavaScript, SheetJS, Tailwind CSS |
+| [**Guia Web Definitivo**](https://github.com/Paulo968/guia-web) | Organização didática de conceitos e experiência frontend | HTML, JavaScript, Tailwind CSS |
+| [**Jokenpo Pro**](https://github.com/Paulo968/JokenpoPro) | Lógica adaptativa, estatísticas, persistência e PWA | JavaScript, Chart.js, Service Worker |
 
 ## Sistemas comerciais
 
-Também desenvolvo sistemas privados utilizados em operações reais, incluindo gestão de pedidos, estoque, caixa, pagamentos e controle de frota. Por segurança, privacidade e proteção dos negócios atendidos, o código-fonte desses produtos não é público.
+Também desenvolvo sistemas privados utilizados em operações reais, incluindo:
+
+- gestão de pedidos, cardápio, caixa, cashback, estoque e pagamentos;
+- controle de fretes, motoristas, veículos, recebimentos e manutenção;
+- interfaces responsivas para operação em desktop e celular;
+- bancos de dados, integrações, regras financeiras e automações.
+
+O código-fonte desses produtos permanece privado para proteger dados, regras de negócio e as empresas atendidas. Os estudos de caso e demonstrações estão disponíveis no meu [portfólio profissional](https://portfolio-paulo-ashy.vercel.app/).
 
 ## Tecnologias
 
-`Python` · `Selenium` · `Pandas` · `JavaScript` · `TypeScript` · `React` · `HTML` · `CSS` · `Tailwind CSS` · `PostgreSQL` · `Supabase` · `Git` · `SAP SD/MM/WM`
+<div align="center">
 
-## Contato
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-SD%20%7C%20MM%20%7C%20WM-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 
-- [LinkedIn](https://www.linkedin.com/in/paulo-zaqueu-762459187)
-- [Portfólio](https://portfolio-paulo-ashy.vercel.app/)
-- E-mail: paulozaqueu3@gmail.com
+</div>
 
----
+## Direção profissional
+
+Busco evoluir na interseção entre **tecnologia, automação e operações**, construindo produtos capazes de reduzir retrabalho, organizar processos e entregar decisões mais rápidas e confiáveis.
 
 > Não quero apenas operar processos. Quero entender a raiz do problema e construir a solução.
